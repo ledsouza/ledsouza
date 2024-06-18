@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Leandro Souza and I'm a Data Scientist and Python Developer!</h2>
+<h2 align="left">Hi 👋! My name is Leandro Souza and I'm a Data Scientist and Software Developer!</h2>
 
 ###
 
