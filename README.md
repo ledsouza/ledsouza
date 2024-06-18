@@ -18,25 +18,27 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="30" alt="terraform logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
 </div>
