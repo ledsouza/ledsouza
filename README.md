@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">- Passionate about learning and driven by the thrill of problem-solving.<br>- Currently learning Machine Learning Algorithms.<br>- Currently learning Web Development with Django.</p>
+<p align="left">- Passionate about learning and driven by the thrill of problem-solving.<br>- Currently learning Machine Learning Algorithms.<br>- Currently learning Web Development with Django and React.</p>
 
 ###
 
