@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">- Passionate about learning and driven by the thrill of problem-solving.<br>- Currently learning Machine Learning Algorithms.<br>- Currently learning Web Development with Django and React.</p>
+<p align="left">Highly motivated with a passion for software development and data science. Leveraging my strong foundation in mathematics, statistics, and programming languages (C++, Python, Javascript) from a Medical Physics degree (UFCSPA) and self-study, I'm actively seeking opportunities to learn and contribute in these fields. Possess experience in data analysis, databases (SQL), cloud computing, and web development using Python (backend with Django) and Javascript (frontend with React). Eager to apply my problem-solving skills and analytical thinking to develop innovative solutions.</p>
 
 ###
 
