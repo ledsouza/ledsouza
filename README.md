@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Leandro Souza and I'm a Data Scientist and Software Developer!</h2>
-
 ###
 
 <div align="center">
