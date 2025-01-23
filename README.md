@@ -5,10 +5,6 @@
 - 🚀 While specialized in Python, I’m exploring and excited to learn more about Golang 
 - 🤖 Deeply interested in AI and Machine Learning 
 
-###
-
-<br clear="both">
-
 <h2 align="left">Social Media</h2>
 
 ###
