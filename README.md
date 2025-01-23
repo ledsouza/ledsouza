@@ -1,9 +1,9 @@
 ## About me
 
-- Worked as a Physicist for 3 years until I discovered a passion for software engineering ⚛️
-- Currently working as a Full Stack Developer, using Django for the backend and Next.js for the frontend 👨‍💻
-- While specialized in Python, I’m exploring and excited to learn more about Golang 🚀  
-- Deeply interested in AI and Machine Learning 🤖✨  
+- ⚛️ Worked as a Physicist for 3 years until I discovered a passion for software engineering 
+- 👨‍💻 Currently working as a Full Stack Developer, using Django for the backend and Next.js for the frontend 
+- 🚀 While specialized in Python, I’m exploring and excited to learn more about Golang 
+- 🤖 Deeply interested in AI and Machine Learning 
 
 ###
 
